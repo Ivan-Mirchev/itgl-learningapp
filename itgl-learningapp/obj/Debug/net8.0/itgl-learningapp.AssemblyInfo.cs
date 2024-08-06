@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("itgl-learningapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3db9705334f373f4d1d082affa3fb8cedc3dab19")]
 [assembly: System.Reflection.AssemblyProductAttribute("itgl-learningapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("itgl-learningapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
